@@ -1,0 +1,38 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    {% assign first = true %}
+    {% for collection in site.collections %}
+    {% assign itemm = collection.label %}
+    {% for item in site[itemm] %}
+    {% if item.title != null and item.title != empty %}
+
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ item.url }}</loc>
+    {% if item.lastmod == null %}
+    <lastmod>{{ item.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ item.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+  
+ {% assign first = false %}
+            {% endif %}
+        {% endfor %}
+{% endfor %}
+
+  
+  
+  
+  
+  {% for page in site.pages %}
+  {% if page.title != null and page.title != empty %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
+   
+  </url>
+  {% endif %}
+  {% endfor %}
+</urlset>

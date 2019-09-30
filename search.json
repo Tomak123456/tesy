@@ -1,0 +1,25 @@
+---
+layout: null
+---
+
+{% assign posts = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+{% assign first = true %}
+[
+
+    {% for item in posts %}
+            {% if item.title != null and item.title != empty %}
+            {% unless first %},{% endunless %}{
+                "title": {{item.title | jsonify}},
+                "content": {{item.content | markdownify | strip_html | jsonify}},
+                "url": "{{ site.baseurl }}{{ item.url }}",
+                "date": "{{ item.date | date: "%d/%m/%Y"}}",
+                "excerpt": "{{ item.snippet }}",
+                "search_omit": "{{ item.search_omit }}"
+            }
+            {% assign first = false %}
+            {% endif %}
+        {% endfor %}
+    
+
+
+]

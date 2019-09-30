@@ -1,0 +1,100 @@
+---
+University:
+- link_name: Οδοντιατρικό Τμήμα Ε.Κ.Π.Αθήνας
+  link_url: http://www.dent.uoa.gr/
+- link_name: Οδοντιατρικό Τμήμα Α.Π. Θεσσαλονίκης
+  link_url: http://www.auth.gr/dent
+- link_name: Ιατρικό Τμήμα Πανεπιστημίου Θεσσαλίας
+  link_url: http://www.med.uth.gr/
+- link_name: School of Sheffield
+  link_url: http://www.shef.ac.uk/
+- link_name: University of Sheffield
+  link_url: http://www.shef.ac.uk/
+- link_name: UCL, Eastman Dental Institute
+  link_url: http://www.eastman.ucl.ac.uk/
+- link_name: US Dental Schools
+  link_url: http://www.dentalsite.com/dentists/densch.html
+- link_name: University of Washington
+  link_url: http://faculty.washington.edu/quarn/
+- link_name: School of Dental Medicine in Boston
+  link_url: http://www.tufts.edu/dental/index.html
+- link_name: University of Connecticut 
+  link_url: http://sdm.uchc.edu/
+- link_name: Dental Schools in Europe
+  link_url: http://www.gradschools.com/listings/Europe/dental_europe.html
+
+Dental_Association:
+- link_name: Ελληνική Οδοντιατρική Ομοσπονδία 
+  link_url: http://www.eoo.gr/
+- link_name: Οδοντιατρικός Σύλλογος Αττικής 
+  link_url: http://www.osanet.gr/
+- link_name: Οδοντιατρικός Σύλλογος Θεσσαλονίκης 
+  link_url: http://www.osth.gr/osth.asp
+- link_name: Οδοντιατρικός Σύλλογος Πειραιά 
+  link_url: http://www.osp.gr/  
+- link_name: Οδοντιατρικός Σύλλογος Λάρισας 
+  link_url: http://www.osl.gr/
+- link_name: Οδοντιατρικός Σύλλογος Μαγνησίας 
+  link_url: http://www.os-magnesia.gr/
+- link_name: Οδοντιατρικός Σύλλογος Καρδίτσας 
+  link_url: http://www.oskarditsas.gr/
+
+Journal:
+- link_name: Ελληνική Ορθοδοντική Επιθέωρηση 
+  link_url: http://www.grortho.gr/hor/
+- link_name: Στόμα 
+  link_url: http://www.sebe.gr/sebe_home_gr.htm
+- link_name: Στοματολογία 
+  link_url: http://www.stomatologia.gr/journal-gr.htm
+- link_name: Κατάλογος on-line περιοδικών 
+  link_url: http://www.dentistry2000.com/dentaljournals/  
+- link_name: BMC oral health Journal 
+  link_url: http://www.biomedcentral.com/bmcoralhealth/
+- link_name: Journal of the Canadian Dental Association 
+  link_url: http://www.cda-adc.ca/jcda/index.html
+- link_name: The Forsyth Institute 
+  link_url: http://www.forsyth.org/default.asp
+
+International_Association:
+- link_name: International Association for Dental Research 
+  link_url: http://www.iadr.com/
+- link_name: Gentle Dental - Affordable Dental Care
+  link_url: http://www.gentledental.com/
+- link_name: FDI World Dental Federation
+  link_url: http://www.fdi.org.uk/
+- link_name: Dental Associations US 
+  link_url: http://www.dental-resources.com/  
+- link_name: Abbreviations of Dental Journals 
+  link_url: http://www.dent.unc.edu/
+- link_name: Dental Associations,journals,schools, useful sites 
+  link_url: http://www.ihs.ox.ac.uk/
+- link_name: Dental Organizations and Associations
+  link_url: http://www.iupui.edu/
+- link_name: A.D.A organization 
+  link_url: http://www.ada.org/
+
+Gr_Association:
+- link_name: Ελληνική Εταιρεία Στοματογναθοπροσωπικής Χειρουργικής 
+  link_url: http://www.haoms.org/
+- link_name: Ελληνική Περιοδοντολογική Εταιρεία
+  link_url: http://www.periodontology.gr/
+- link_name: Ελληνική Ενδοδοντική Εταιρεία
+  link_url: http://www.endodontics.gr/
+- link_name: Εταιρεία Οδοντοστοματολογικής Ερεύνης
+  link_url: http://www.proodoseoe.gr/
+- link_name: Εταιρεία Ορθοδοντικής & Γναθοπροσωπικής Μελέτης & Έρευνας
+  link_url: http://www.eogme.gr/
+- link_name: Ορθοδοντική Εταιρεία Της Ελλάδας
+  link_url: http://www.grortho.gr/
+- link_name: Στοματολογική Εταιρεία Βορείου Ελλάδος
+  link_url: http://www.sebe.gr/
+- link_name: Στοματολογική Εταιρεία Της Ελλάδος
+  link_url: http://www.stomatologia.gr/
+- link_name: Στοματολογική Εταιρεία Κρήτης
+  link_url: http://www.stomatologikikritis.gr/index.htm
+- link_name: Ελληνική Ακαδημία Αισθητικής Οδοντιατρικής
+  link_url: http://www.eaao.gr/
+
+Gr_Gov:
+- link_name: Ενιαίος Φορέας Κοινωνικής Ασφάλισης 
+  link_url: https://www.efka.gov.gr/el

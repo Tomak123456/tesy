@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body id="page-top">
+    
+
+    {% include header_onlynav.html %}
+<div class="jumbotron1" style="background-image: url('{{ site.baseurl }}/files/4.jpg')">
+
+    </div>
+
+  <div class="container shadow-lg" style="min-height: 440px; border-radius: 20px; border: rounded; background-color: #fff; margin-top: -100px; padding: 25px;">
+       <h3 class="mt-4" style="border-bottom: 6px solid red;">{{page.title}}</h3>
+
+          <!-- Author -->
+           {% if page.author %}
+          <p class="lead">
+            by
+            <a href="#">{{page.author}}</a>
+          </p>
+           {% endif %}
+          
+
+          <!-- Date/Time -->
+          {% include share.html %}
+
+          
+
+          <!-- Preview Image -->
+          {% if page.img %}
+        <img class="img-fluid rounded" src="{{page.img}}" alt="">
+          {% endif %}   
+        
+
+          <!-- Post Content -->
+          {{ content }}
+         
+           
+          
+        </div>
+       
+           
+    {% include footer.html %}
+    
+   
+
+ 
+ <!-- Custom scripts for this template -->
+   {% include scripts.html %}
+
+
+   
+
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Ανακοινώσεις Αγγελίες ΦΕΚ</h2>
+            <hr class="my-4">
+          </div>
+        </div>
+      </div>
+
+
+<div class="container">
+<div class="row">
+
+
+
+{% assign sorted = (site.documents | where: "layout" , "post" | sort: 'date' | reverse %}
+{% for itemm in sorted limit:3 %}
+
+
+
+<div class="col-lg-4 col-md-6 col-sm-12 mx-auto">
+<div class="card mb-4 shadow-sm mw-75" >
+  <div class="card-body">
+    <h5 class="card-title text-primary">{{itemm.class}}</h5>
+    {% if itemm.dex %}
+    <h6 class="card-subtitle mb-2 text-muted">{{itemm.dex}}</h6>
+    {% else %}
+    <h6 class="card-subtitle mb-2 text-muted">{{itemm.date | date: "%d/%m/%Y"}}</h6>
+    {% endif %}
+    <p class="card-text">{{itemm.title}}</p>
+    <a href="{{site.baseurl}}{{itemm.url}}" class="card-link">Περισσότερα...</a>
+  </div>
+</div>
+</div>
+{% endfor %}
+
+
+
+</div>      
+</div>      

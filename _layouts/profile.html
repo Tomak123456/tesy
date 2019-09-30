@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body id="page-top">
+    
+ 
+
+    {% include header_onlynav.html %}
+    <div class="jumbotron1" style="background-image: url('{{ site.baseurl }}/files/4.jpg')">
+
+    </div>
+
+<div class="container" style="min-height: 440px;">
+
+ {{ content }}
+
+<div class="card text-center">
+  <div class="card-header">
+    {{page.dentistspecialty}}
+  </div>
+  <div class="card-body">
+    <h4 class="card-title">{{page.dentistname}}</h4>
+    <p class="card-text" > {{page.dentistaddress}}</p>
+    <a href="tel:{{page.dentistmobile}}" class="btn btn-primary"> {{page.dentistmobile}}</a>
+  </div>
+  <div class="card-footer text-muted">
+    {{page.dentistcity}}
+  </div>
+</div>
+      
+
+
+
+
+
+
+      
+ </div>
+           
+       
+       
+           
+    {% include footer.html %}
+    
+    {% if site.analytics %}
+        {% include analytics.html %}
+    {% endif %}
+
+
+    
+   <!-- Custom scripts for this template -->
+   {% include scripts.html %}
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

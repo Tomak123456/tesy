@@ -1,0 +1,913 @@
+---
+-
+    name: 'Αβδελίδη Χριστίνα'
+    address: 'Απόλλωνος 22 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431027875'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Αναστασίου Νικόλαος'
+    address: 'Κ.Υ. ΠΥΛΗΣ'
+    city: ΠΥΛΗ
+    phone1: '2434022870'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Αντωνιάδης Χρήστος'
+    address: 'Πλ. Ρήγα Φεραίου'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431026495'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Αρβανίτης Απόστολος'
+    address: 'Κοραή 3 '
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431025510'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Αυγέρης Βασίλης'
+    address: ""
+    city: ""
+    phone1: ""
+    phone2: ""
+    mobile: '6951415464'
+    specialty: Οδοντίατρος
+-
+    name: '΄Αχρας Ιoυλιανός'
+    address: 'Τζαβέλλα 1 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431075591'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Βελαέτης Κων/νος'
+    address: 'Πατριάρχου Δημ. Καλαμπάκα.42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432078010'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Βαφειάδης Θεόδωρος'
+    address: 'Ομ. Αμερικής 5 Καλαμπάκα 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432077588'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Βλόντζου Εύη'
+    address: 'Ασκληπιού 30 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431078900'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Γιαννάκας Δημήτριος'
+    address: 'Γαριβάλδη 14 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431036794'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Γιαννούλης Βησσαρ.'
+    address: 'Κ. Οικονόμου Καλαμπάκα 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432022629'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Γαλάνης Βασίλειος'
+    address: 'Βύρωνος και Κανούτα 1 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431027750'
+    phone2: ""
+    mobile: ""
+    specialty: Ορθοδοντικός
+-
+    name: 'Γούλα Χρύσα'
+    address: 'Τσιτσάνη 33 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431022201'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Γοργογέτας Απόστολος'
+    address: 'Ιπποκράτους 8 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431031302'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Γκαμέ Ροζαλία'
+    address: 'Απόλλωνος 8 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431071577'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Γκούμα Παρασκευή'
+    address: 'Στυλπώνος 3'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431075170'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Δούλη Μαριάνα'
+    address: 'Καρανάσιου 5 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431023969'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Ευθυμιάδου Δήμητρα'
+    address: 'Καρανάσιου 4 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431033331'
+    phone2: ""
+    mobile: ""
+    specialty: Ορθοδοντικός
+-
+    name: 'Ζάχος Ηλίας'
+    address: 'Γαριβάλδη 7 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431034869'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Ζυγογιάννης Κων/νος'
+    address: 'Βύρωνος 9 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431034868'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κρύου Γεωργία'
+    address: 'Ιουλέτας Αδάμ 10'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431031644'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Καραθάνου Σοφία'
+    address: 'Ομήρoυ 1 & Ασκληπιού 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431078620'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κατσικάς Νικόλαος'
+    address: 'Τρικάλων 16 Καλαμπάκα. 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432024886'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κατσικογιάννης Νικόλαος'
+    address: 'Καρανάσιου 4 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431033332'
+    phone2: ""
+    mobile: '6932951097'
+    specialty: Οδοντίατρος
+-
+    name: 'Κατσάλης Βασίλειος'
+    address: 'Ασκληπιού 30 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431078900'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κατσάνος Μιχαήλ- Γεώργιος'
+    address: 'Τιουσόν 22 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431035455'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Καφφές Λάμπρος'
+    address: 'Κονδύλη 28 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431029961'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κωστόπουλος Αθανάσιος'
+    address: 'Τσιτσάνη 39 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431070403'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κερασοβίτη Μαρία'
+    address: 'Ασκληπιού 11 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431039593'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κλιφόπουλος Ευθύμιος'
+    address: 'Στουρνάρα 8 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431028063'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Καλλαντζής Δημήτριος'
+    address: 'Καποδιστρίου 14 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431032255'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κοϊνόγλου Δημήτριος'
+    address: 'Πατριάρχου Δημητρίου 7, Καλαμπάκα'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432400142'
+    phone2: ""
+    mobile: '6934696175'
+    specialty: Οδοντίατρος
+-
+    name: 'Κούζας Γεώργιος'
+    address: 'Τιουσον 12 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431034692'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κουκουσούλα Γεωργία'
+    address: 'Γαριβάλδη 7 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431072762'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Κοτρώνη Γεωργία'
+    address: 'Ασκληπιού 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431030221'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Λεπεντσιώτης Γιάννης'
+    address: 'Χαντζηγάκη 6 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431072319'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Λιούτας Νικόλαος'
+    address: 'Βύρωνος 12 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431025727'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Λιάκου Αθανάσιος'
+    address: 'Ασκληπιού 14 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431551880'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Λάππας Μιχάλης'
+    address: 'Μαυροκορδάτου 2 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431070731'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Λαμπρογιώργος Κων/νος'
+    address: 'Τρικάλων 74, Καλαμπάκα. 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432020040'
+    phone2: ""
+    mobile: '6932876285'
+    specialty: Οδοντίατρος
+-
+    name: 'Μανώλης Βασίλειος'
+    address: 'Άννης Κομνηνής 12 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431301645'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μανάκου Ελένη'
+    address: 'Σωκρατους 32 και Κολοκοτρώνη 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431079420'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μπάκος Κωνσταντίνος'
+    address: 'Μιαούλη και Ιακωβάκη 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431078780'
+    phone2: ""
+    mobile: ""
+    specialty: Ορθοδοντικός
+-
+    name: 'Μπάκος Γεώργιος'
+    address: 'Μιαούλη & Ιακωβάκη 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431078780'
+    phone2: ""
+    mobile: ""
+    specialty: Ορθοδοντικός
+-
+    name: 'Μαράβας Κων/νος'
+    address: Φήκη
+    city: ΦΗΚΗ
+    phone1: '2431052130'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μαργαρίτης Κων/νος'
+    address: 'Φαρκαδόνα 42031'
+    city: ΦΑΡΚΑΔΟΝΑ
+    phone1: '2433022424'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μήτσιου Νικόλαος'
+    address: 'Ερμού 12 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431032510'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μίγκας Δημήτριος'
+    address: 'Ασκληπιού 9 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431030700'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μισιάκα Καλλιόπη'
+    address: 'Ιουλ. Αδάμ 9 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431074228'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μοσχίδης Αναστάσιος'
+    address: 'Μιαούλη & Ιακωβάκη 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431079140'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μοσχίδης Νικόλαος'
+    address: 'Κλεμανσώ 3'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431026150'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μυλωνάς Νικόλαος'
+    address: 'Ερμού 22 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431076961'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μπαρτζιώκα Δώρα'
+    address: 'Ασκληπιού 13 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431037655'
+    phone2: ""
+    mobile: ""
+    specialty: Ορθοδοντικός
+-
+    name: 'Μπαταγιάννη Κική'
+    address: 'Καρανάσιου 10 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431022975'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μπατατόλης Γεώργιος'
+    address: 'Ιουλ. Αδάμ 5 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431029200'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μπιλιάλη Νικολέτα'
+    address: 'Ιπποκράτους 1 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431028300'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Μπουλογεώργου Ευανθία'
+    address: 'Άννης Κομνηνής 6'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431033323'
+    phone2: ""
+    mobile: '6979603909'
+    specialty: Οδοντίατρος
+-
+    name: 'Μπαλαμώτη Μαρία'
+    address: 'Καποδιστρίου 40Α'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431030666'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Νινίκα Αικατερίνη'
+    address: 'Κονδύλη 28 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431030189'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Ντουρντούνης Κων/νος'
+    address: 'Κολοκοτρωνη 13 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431074110'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Νταβαντζίκου Κων/να'
+    address: 'Ιουλ. Αδάμ. 5 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431020925'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Ντάφου Φανή'
+    address: 'Κ. Υ. Καλ/κας 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432022222'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Ναζίρη Ελένη'
+    address: 'Ασκληπιού 13 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431037655'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Νάτσικας Αθανάσιος'
+    address: 'Φαρκαδόνα 42031'
+    city: ΦΑΡΚΑΔΟΝΑ
+    phone1: '2433022760'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Οικονόμου Στέλλα'
+    address: 'Βύρωνος 14 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431072131'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Οικονόμου Θεόδωρος'
+    address: 'Ασκληπιού 54 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431072911'
+    phone2: ""
+    mobile: ""
+    specialty: Ορθοδοντικός
+-
+    name: 'Οικονόμου Μαρία'
+    address: 'Βύρωνος 11 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431031327'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Προύτσος Ζήσης'
+    address: 'Χαντζηπέρου 10. Καλαμπάκα 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432022062'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Πανάγος Βασίλειος'
+    address: 'Βύρωνος 15 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431033734'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Πανάγου Ντανιέλα'
+    address: 'Βαλτινό 42100'
+    city: ΒΑΛΤΙΝΟ
+    phone1: '2431072345'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Παντέρας Δημήτριος'
+    address: 'Ασκληπιού 9 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431022079'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Παπαευθυμίου Γεώργιος'
+    address: 'Μιαούλη 31 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431029987'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Πάπαρης Γεώργιος'
+    address: 'Απόλλωνος 16 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431038154'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Παπανικολάου Βάσω'
+    address: 'Κονδύλη 64 Καλαμπάκα, Δεληγιάννη 23'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432075842'
+    phone2: '2431026513'
+    mobile: '6970839371'
+    specialty: Οδοντίατρος
+-
+    name: 'Πουλιανίτη Βάσω'
+    address: 'Ιπποκράτους 4 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431072292'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Πινιάρας Δημήτριος'
+    address: 'Ράμμου 1 Καλαμπάκα 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432023123'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Πινιάρας Αντώνης'
+    address: 'Ράμμου 1 Καλαμπάκα 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432023123'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Παπαβαγγέλη Ευανθία'
+    address: 'Eρμού 2. 42032. Πύλη'
+    city: ΠΥΛΗ
+    phone1: '2434022333'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Παπακωνσταντίνου Ευθαλ'
+    address: 'Αθ. Εργάνης 1 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431072223'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Πούλιος Αθανάσιος'
+    address: 'Ασκληπιού 9 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431072230'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Ράπτης Χρήστος'
+    address: 'Κανούτα 1 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431023719'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Ραπτοτάσιος Χριστόδουλος'
+    address: 'Κονδύλη 24 και Σωκράτους 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431035933'
+    phone2: ""
+    mobile: '6937382868'
+    specialty: Οδοντίατρος
+-
+    name: 'Ρούσινου ΄Εφη .'
+    address: 'Γαριβάλδη 9 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431077225'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σακελλαρίου Ευαγγελία'
+    address: 'Οιχαλία 42300'
+    city: ΟΙΧΑΛΙΑ
+    phone1: '2433033033'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σαμαράς Αθανάσιος'
+    address: ""
+    city: ""
+    phone1: ""
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σαχλεάνου Σμαράντα'
+    address: 'Οιχαλία'
+    city: ΟΙΧΑΛΙΑ
+    phone1: '2433032225'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σέγγης Κωνσταντίνος'
+    address: 'Βύρωνος 6 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431022400'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σέγγης Σωτήριος'
+    address: 'Βύρωνος 6 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431024383'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Στάμου Παρασκευή'
+    address: 'Κανούτα 1 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431076976'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Στάμος Αθανάσιος'
+    address: 'Φαρκαδόνα'
+    city: ΦΑΡΚΑΔΟΝΑ
+    phone1: '2433022690'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σίμος Χαράλαμπος'
+    address: 'Στρ.Σαράφη 17 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431033174'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σύρμος Χρήστος'
+    address: Φήκη
+    city: ΦΗΚΗ
+    phone1: '2431051959'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σταφυλλάς Κων/νος'
+    address: 'Αθ. Διάκου 45 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431024630'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Σακελλαρίδης Εμμαν.'
+    address: 'Ασκληπιού 15 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431028112'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τασούλας Παναγιώτης'
+    address: 'Απόλλωνος 12 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431076722'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τασσιοπούλου Δώρα'
+    address: 'Απόλλωνος 18 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431032223'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τζατζάκης Βασίλειος'
+    address: 'Βύρωνος 9 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431035066'
+    phone2: ""
+    mobile: ""
+    specialty: Ορθοδοντικός
+-
+    name: 'Τζιαμαλή Σταυρούλα'
+    address: 'Τσιτσάνη 18 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431039355'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τζέλη Ευαγγελία'
+    address: 'Κανούτα 1 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431076577'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τσιάνος Ευάγγελος'
+    address: 'Αμαλίας 30 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431032072'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τσίγκας Κώστας'
+    address: 'Στρ. Σαράφη 14 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431033258'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τσιρογιάννη Αμαλία'
+    address: 'Ασκληπιού 26 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431071382'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τάσιου Ελένη'
+    address:  'Ηρώων 1940, αρ. 34'
+    city: ΠΥΛΗ
+    phone1: '2434023237'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τσαραπατσάνη Παναγ.'
+    address: 'Ραμμίδη 3- Καλαμπάκα 42200'
+    city: ΚΑΛΑΜΠΑΚΑ
+    phone1: '2432075853'
+    phone2: ""
+    mobile: ""
+    specialty: Ορθοδοντικός
+-
+    name: 'Τσιάρας Παναγιώτης'
+    address: 'Απόλλωνος 26 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431073550'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τσίνας Γεώργιος'
+    address: 'Μικρό Κεφαλόβρυσο'
+    city: 'ΜΙΚΡΟ ΚΕΦΑΛΟΒΡΥΣΟ'
+    phone1: '2431037900'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Φασούλα Μαρία'
+    address: ""
+    city: ""
+    phone1: ""
+    phone2: ""
+    mobile: '6944454806'
+    specialty: Οδοντίατρος
+-
+    name: 'Χατζής Στέλιος'
+    address: 'Τσιτσάνη 3 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431024710'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Χαρίσης Ευάγγελος'
+    address: 'Μιαούλη 3 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431029898'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Χαντζιάρας Νίκος'
+    address: 'Γαριβάλδη 20 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431033370'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Χονδρός Αλέκος'
+    address: 'Απόλλωνος 6 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431031717'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Χύτα Ελένη'
+    address: 'Κανούτα 1 42131'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431077560'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Χουδγάδο Αντρές Βερόνικα'
+    address: 'Μιαούλη και Ιακωβάκη 42132'
+    city: ΤΡΙΚΑΛΑ
+    phone1: '2431079140'
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος
+-
+    name: 'Τάσιου Αντιγόνη'
+    address: 'Απόλλωνος 26'
+    city: ΤΡΙΚΑΛΑ
+    phone1: "2431078287"
+    phone2: ""
+    mobile: ""
+    specialty: Οδοντίατρος

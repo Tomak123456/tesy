@@ -1,0 +1,19 @@
+---
+---
+[
+  {% assign posts = site.documents | where:"layout", "profile" | sort: 'dentistname'  %}
+  {% for item in posts %}
+  {% if item.dentistname != null and item.dentistname != empty %}
+
+  {
+    "name"    : {{ item.dentistname | jsonify }},
+    "address" : {{ item.dentistaddress | jsonify }},
+    "city"     : {{ item.dentistcity | jsonify }},
+    "phone"     : "{{ item.dentistmobile | jsonify }}",
+    "url"     : "{{site.baseurl}}{{ item.url }}",
+    "speciality" : {{ item.dentistspecialty | jsonify }}
+  },   {% endif %}
+        {% endfor %}
+
+  null
+]

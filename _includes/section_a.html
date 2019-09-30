@@ -1,0 +1,49 @@
+
+         <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Ανακοινώσεις</h2>
+            <hr class="my-4">
+          </div>
+        </div>
+      </div>
+       <div class="container">
+          <div class="row mb-2 justify-content-md-center">
+               {% assign sorted = (site.events | sort: 'date') | reverse %}
+               {% assign sorted2 = (site.laws | sort: 'date') | reverse %}
+  {% for itemm in sorted limit:4 %}
+        <div class="col-md-4" >
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start" style="align-self: stretch;">
+              <strong class="d-inline-block mb-2 text-primary">{{itemm.class}}</strong>
+              
+              <div class="mb-1 text-muted" style="align-self: stretch;">{{itemm.date | date: "%d/%m/%Y"}}</div>
+              <p class="card-text mb-auto">{{itemm.title}}</p>
+              <a href="{{site.baseurl}}/{{itemm.url}}">Περισσότερα...</a>
+            </div>
+             </div>
+        </div>
+        {% endfor %}
+         {% for itemm in sorted2 limit:3 %}
+        <div class="col-md-4">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-primary">{{itemm.class}}</strong>
+              
+              <div class="mb-1 text-muted">{{itemm.date | date: "%d/%m/%Y"}}</div>
+              <p class="card-text mb-auto">{{itemm.title}}</p>
+              <a href="{{site.baseurl}}/{{itemm.url}}">Περισσότερα...</a>
+            </div>
+             </div>
+        </div>
+        {% endfor %}
+    </div>   
+           
+           
+       
+      </div>
+  
+        
+     
+   
+

@@ -1,0 +1,140 @@
+# Site settings
+title: ΟΔΟΝΤΙΑΤΡΙΚΟΣ ΣΥΛΛΟΓΟΣ ΤΡΙΚΑΛΩΝ
+description: "Η ιστοσελίδα του Οδοντιατρικού Συλλόγου Τρικάλων"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.ostrikala.gr" # the name of your domain
+logo_url: /files/logo.png
+
+# Hero
+hero: 
+    hero_img: 2.jpg
+    hero_title: ΟΔΟΝΤΙΑΤΡΙΚΟΣ ΣΥΛΛΟΓΟΣ ΤΡΙΚΑΛΩΝ
+    hero_description: Η ιστοσελίδα του συλλόγου
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: 24310 22430
+    emergency: 24310 22430
+    email: odo_silogos@hol.gr
+    address: Απόλλωνος 7, <br> Τρίκαλα - Ελλάδα
+
+# Opening hours
+monday_friday: 9:00 – 18:00
+saturday: 10:00 – 17:00
+sunday: 10:00 – 15:00
+
+collections:
+  laws:
+    output: true
+    permalink: /οδοντιατροι/νομοθεσια/:name/
+  events:  
+    output: true
+    permalink: /οδοντιατροι/εκδηλωσεις/:name/
+  supportingdocuments:
+      output: true
+      permalink: /οδοντιατροι/δικαιολογητικα/:name/
+  news:
+    output: true
+    permalink: /οδοντιατροι/νεα/:name/
+  insurance:
+      output: true
+      permalink: /οδοντιατροι/ασφαλιση/:name/  
+  dentists:
+      output: true
+      permalink: /οδοντιατροι-ορθοδοντικοι/τρικαλων/:name/
+  aggelies:
+      output: true
+      permalink: /οδοντιατροι/αγγελιες/:name/
+      
+  
+
+defaults:
+  - scope:
+      path: ""
+      type: "laws"
+    values:
+      layout: post
+      class: "ΝΟΜΟΘΕΣΙΑ"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: post
+      class: "ΕΚΔΗΛΩΣΗ"    
+  - scope:
+      path: ""
+      type: "supportingdocuments"
+    values:
+      layout: post
+      class: "ΔΙΚΑΙΟΛΟΓΗΤΙΚΑ"
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: post
+      class: "ΑΝΑΚΟΙΝΩΣΗ"
+  - scope:
+      path: ""
+      type: "insurance"
+    values:
+      layout: post
+      class: "ΑΣΦΑΛΙΣΗ"
+  - scope:
+      path: ""
+      type: "dentists"
+    values:
+      layout: profile
+      class: "ΟΔΟΝΤΙΑΤΡΟΣ"
+  - scope:
+      path: ""
+      type: "aggelies"
+    values:
+      layout: post
+      class: "ΑΓΓΕΛΙΑ"
+      
+
+
+# Testimonials
+testimonials:
+    testimonials_img: 1.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Απόλλωνος 7, Trikala, Greece
+    address_details: img/logo.png
+
+# Social settings
+facebook: https://www.facebook.com/ostrikalon/
+twitter:
+instagram:
+youtube:
+skype: 
+feed: yes
+
+# Footer
+copyright: © 2018 Οδοντιατρικός Σύλλογος Τρικάλων
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:
