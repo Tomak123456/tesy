@@ -1,5 +1,8 @@
 {
  "name": "ΟΔΟΝΤΙΑΤΡΙΚΟΣ ΣΥΛΛΟΓΟΣ ΤΡΙΚΑΛΩΝ",
+ "short_name": "Ο.Σ.Τ",
+ "background_color": "#ffffff",
+ "display": "standalone",
  "icons": [
   {
    "src": "/files/icons/android-icon-36x36.png",
