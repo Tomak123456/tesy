@@ -11,7 +11,7 @@ permalink: /οδοντιατροι-ορθοδοντικοι/τρικαλων/
       <a class="nav-link active" data-toggle="pill" href="#home">Οδοντίατροι</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" data-toggle="pill" href="#menu1">Ορθοδοντικοί</a>
+      <a class="nav-link" data-toggle="pill" href="#menu1">Ορθοδο ντικοί</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" data-toggle="modal" data-target="#myModal" href="#">
