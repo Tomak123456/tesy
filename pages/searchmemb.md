@@ -6,12 +6,18 @@ nav_weight: 5
 permalink: /οδοντιατροι-ορθοδοντικοι/τρικαλων/
 ---
 
+{% assign dentists = site.documents | where:"layout", "profile" | where:"dentistspecialty", "Οδοντίατρος"   %}
+    
+{% assign ortho = site.documents | where:"layout", "profile" | where:"dentistspecialty", "Ορθοδοντικός"  %}
+
+
+
  <ul class="nav nav-pills" role="tablist">
     <li class="nav-item">
-      <a class="nav-link active" data-toggle="pill" href="#home">Οδοντίατροι</a>
+      <a class="nav-link active" data-toggle="pill" href="#home">Οδοντίατροι ({{dentists.size}})</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" data-toggle="pill" href="#menu1">Ορθοδοντικοί</a>
+      <a class="nav-link" data-toggle="pill" href="#menu1">Ορθοδοντικοί ({{ortho.size}})</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" data-toggle="modal" data-target="#myModal" href="#">
