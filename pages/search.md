@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ΑΝΑΖΗΤΗΣΗ
-feature-img: files/4.jpg
+feature-img: files/1.jpg
 nav_weight: 4
 permalink: /αναζητηση/
 ---
