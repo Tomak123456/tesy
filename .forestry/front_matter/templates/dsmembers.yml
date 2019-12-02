@@ -1,0 +1,29 @@
+---
+label: dsmembers
+hide_body: true
+fields:
+- type: field_group_list
+  name: Ds
+  label: Ds
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: lastname
+    label: lastname
+  - type: text
+    name: position
+    label: position
+  - type: text
+    name: location
+    label: location
+  - type: text
+    name: city
+    label: city
+  - type: text
+    name: website
+    label: website
+  - type: number
+    name: mobile
+    label: mobile
