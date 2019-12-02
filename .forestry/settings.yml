@@ -9,6 +9,8 @@ sections:
   label: Μέλη
   create: all
   match: "**/*"
+  templates:
+  - members
 - type: document
   path: _data/ds.yaml
   label: Μέλη Δ.Σ.
