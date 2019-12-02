@@ -1,0 +1,19 @@
+---
+label: dsmembers
+hide_body: true
+fields:
+- type: text
+  name: dentistname
+  label: dentistname
+- type: text
+  name: dentistaddress
+  label: dentistaddress
+- type: number
+  name: dentistmobile
+  label: dentistmobile
+- type: text
+  name: dentistcity
+  label: dentistcity
+- type: text
+  name: dentistspecialty
+  label: dentistspecialty
