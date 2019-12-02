@@ -27,3 +27,5 @@ fields:
   - type: number
     name: mobile
     label: mobile
+pages:
+- _data/ds.yaml
