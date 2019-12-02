@@ -13,6 +13,11 @@ sections:
   path: _data/ds.yaml
   label: Μέλη Δ.Σ.
 - type: directory
+  path: _news
+  label: Νέα
+  create: all
+  match: "**/*"
+- type: directory
   path: _aggelies
   label: Αγγελίες
   create: all
@@ -20,11 +25,6 @@ sections:
 - type: directory
   path: _insurance
   label: Ασφάλιση
-  create: all
-  match: "**/*"
-- type: directory
-  path: _news
-  label: Νέα
   create: all
   match: "**/*"
 - type: directory
