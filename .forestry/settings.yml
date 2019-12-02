@@ -4,45 +4,39 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: _aggelies
-  label: Aggelies
+  label: Αγγελίες
   create: all
   match: "**/*"
 - type: directory
   path: _dentists
-  label: Dentists
+  label: Μέλη
   create: all
   match: "**/*"
 - type: directory
   path: _insurance
-  label: Insurance
+  label: Ασφάλιση
   create: all
   match: "**/*"
 - type: directory
   path: _news
-  label: News
+  label: Νέα
   create: all
   match: "**/*"
 - type: directory
   path: _supportingdocuments
-  label: Supportingdocuments
+  label: Δικαιολογητικά
   create: all
   match: "**/*"
 - type: directory
   path: _events
-  label: Events
+  label: Εκδηλώσεις
   create: all
   match: "**/*"
 - type: directory
   path: _laws
-  label: Laws
+  label: Νομοθεσία
   create: all
   match: "**/*"
 upload_dir: uploads
