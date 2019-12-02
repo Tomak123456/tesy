@@ -4,18 +4,17 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/ds.yaml
-  label: Μέλη Δ.Σ.
-  match: "**/*"
-- type: directory
-  path: _aggelies
-  label: Αγγελίες
-  create: all
-  match: "**/*"
 - type: directory
   path: _dentists
   label: Μέλη
+  create: all
+  match: "**/*"
+- type: document
+  path: _data/ds.yaml
+  label: Μέλη Δ.Σ.
+- type: directory
+  path: _aggelies
+  label: Αγγελίες
   create: all
   match: "**/*"
 - type: directory
