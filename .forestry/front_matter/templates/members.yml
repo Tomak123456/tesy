@@ -4,13 +4,13 @@ hide_body: true
 fields:
 - type: text
   name: dentistname
-  label: dentistname
+  label: Επώνυμο & Όνομα
 - type: text
   name: dentistaddress
-  label: dentistaddress
+  label: Διεύθυνση
 - type: number
   name: dentistmobile
-  label: dentistmobile
+  label: Τηλέφωνο
 - name: dentistcity
   type: select
   default: []
@@ -31,6 +31,17 @@ fields:
       file: 
       path: 
   label: Πόλη
-- type: text
-  name: dentistspecialty
-  label: dentistspecialty
+- name: dentistspecialty
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Οδοντίατρος
+    - Ορθοδοντικός
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Ειδικότητα
