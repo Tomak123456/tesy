@@ -11,9 +11,26 @@ fields:
 - type: number
   name: dentistmobile
   label: dentistmobile
-- type: text
-  name: dentistcity
-  label: dentistcity
+- name: dentistcity
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - ΒΑΛΤΙΝΟ
+    - ΚΑΛΑΜΠΑΚΑ
+    - ΜΙΚΡΟ ΚΕΦΑΛΟΒΡΥΣΟ
+    - ΟΙΧΑΛΙΑ
+    - ΠΥΛΗ
+    - ΤΡΙΚΑΛΑ
+    - ΦΑΡΚΑΔΟΝΑ
+    - ΦΗΚΗ
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Πόλη
 - type: text
   name: dentistspecialty
   label: dentistspecialty
