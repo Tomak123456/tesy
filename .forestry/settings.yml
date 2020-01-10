@@ -47,6 +47,8 @@ sections:
   label: Εκδηλώσεις
   create: all
   match: "**/*"
+  templates:
+  - new-events-post
 - type: directory
   path: _laws
   label: Νομοθεσία
