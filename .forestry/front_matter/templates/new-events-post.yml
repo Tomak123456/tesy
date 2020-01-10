@@ -1,4 +1,10 @@
 ---
 label: new events post
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Τίτλος
+  description: Τίτλος ανάρτησης
