@@ -25,16 +25,21 @@
           {% include share.html %}
 
           
-
-          <!-- Preview Image -->
-          {% if page.img %}
-        <img class="img-fluid rounded" src="{{page.img}}" alt="">
-          {% endif %}   
-        
-
+{{ content }}
+          <div class="totalpostcontent">
           <!-- Post Content -->
-          {{ content }}
-         
+             <div class="posttext">  
+            
+             {{ page.text }}
+             </div>
+         <div class="imagescontainer">
+           <!-- Preview Image -->
+          {% for image in page.images %}
+          <a href="{{image}}"><img src="{{image}}"  class="postfigures"></a> 
+          {% endfor %}
+           </div>
+          </div>
+
            
           
         </div>
