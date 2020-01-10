@@ -30,3 +30,12 @@ fields:
   type: image_gallery
   config: {}
   label: Upload Images
+- name: dex
+  type: datetime
+  label: Ημερομηνία εκδήλωσης
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
