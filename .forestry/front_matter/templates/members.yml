@@ -4,7 +4,8 @@ hide_body: true
 fields:
 - type: text
   name: dentistname
-  label: Επώνυμο & Όνομα
+  label: Επώνυμο  Όνομα
+  description: Πρώτα το επώνυμο και μετά το όνομα
 - type: text
   name: dentistaddress
   label: Διεύθυνση
