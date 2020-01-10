@@ -17,3 +17,12 @@ fields:
     schema:
       format: markdown
   label: Κείμενο
+- name: date
+  type: datetime
+  label: Ημερομηνία ανάρτησης
+  description: ''
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
