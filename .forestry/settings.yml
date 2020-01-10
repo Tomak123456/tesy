@@ -19,21 +19,29 @@ sections:
   label: Νέα
   create: all
   match: "**/*"
+  templates:
+  - new-general-post
 - type: directory
   path: _aggelies
   label: Αγγελίες
   create: all
   match: "**/*"
+  templates:
+  - new-general-post
 - type: directory
   path: _insurance
   label: Ασφάλιση
   create: all
   match: "**/*"
+  templates:
+  - new-general-post
 - type: directory
   path: _supportingdocuments
   label: Δικαιολογητικά
   create: all
   match: "**/*"
+  templates:
+  - new-general-post
 - type: directory
   path: _events
   label: Εκδηλώσεις
@@ -44,6 +52,8 @@ sections:
   label: Νομοθεσία
   create: all
   match: "**/*"
+  templates:
+  - new-general-post
 - type: document
   path: _data/useful_links.yaml
   label: Χρήσιμοι σύνδεσμοι
