@@ -1,0 +1,26 @@
+.totalpostcontent {
+    display:flex;
+    justify-content:space-between;
+}
+
+@media all and (max-width: 412px) {
+  .totalpostcontent {
+    flex-direction:column;
+  }
+}
+
+.posttext {
+    padding:10px;
+}
+
+.postfigures {
+    max-width:200px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.imagescontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
