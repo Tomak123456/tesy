@@ -44,6 +44,10 @@ sections:
   label: Νομοθεσία
   create: all
   match: "**/*"
+- type: document
+  path: _data/useful_links.yaml
+  label: Χρήσιμοι σύνδεσμοι
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
