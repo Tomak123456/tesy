@@ -41,5 +41,9 @@ fields:
     time_format: 
     display_utc: false
     export_format: DD/MM/YYYY
+- name: pdf
+  type: image_gallery
+  config: {}
+  label: Upload pdf files
 pages:
 - _events/ημερίδα-στοματολογίας.md
