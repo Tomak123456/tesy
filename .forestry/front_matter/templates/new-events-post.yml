@@ -41,3 +41,5 @@ fields:
     time_format: 
     display_utc: false
     export_format: DD/MM/YYYY
+pages:
+- _events/ημερίδα-στοματολογίας.md
