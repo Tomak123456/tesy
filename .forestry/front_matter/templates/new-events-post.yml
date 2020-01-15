@@ -39,3 +39,4 @@ fields:
     date_format: DD/MM/YYYY
     time_format: 
     display_utc: false
+    export_format: DD/MM/YYYY
