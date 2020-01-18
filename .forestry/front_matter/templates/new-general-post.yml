@@ -35,5 +35,3 @@ fields:
   type: image_gallery
   config: {}
   label: Upload pdf files
-pages:
-- _news/testing-the-cms.md
