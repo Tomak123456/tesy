@@ -41,7 +41,7 @@ fields:
     time_format: 
     display_utc: false
     export_format: DD/MM/YYYY
-- name: pdf
+- name: pdfs
   type: image_gallery
   config: {}
   label: Upload pdf files
