@@ -1,12 +1,14 @@
 .totalpostcontent {
     display:flex;
     justify-content:space-between;
+    align-items:flex-start;
 }
 
-@media all and (max-width: 412px) {
+@media all and (max-width: 512px) {
   .totalpostcontent {
     flex-direction:column;
   }
+  
 }
 
 .posttext {
@@ -17,6 +19,13 @@
     max-width:200px;
     border-radius: 10px;
     margin-top: 10px;
+}
+
+@media all and (max-width: 512px) {
+  .postfigures {
+    max-width:100%;
+    }
+  
 }
 
 .imagescontainer {
