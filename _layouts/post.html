@@ -23,14 +23,23 @@
 
           <!-- Date/Time -->
           {% include share.html %}
-
-          
-{{ content }}
+ {{ content }}
           <div class="totalpostcontent">
           <!-- Post Content -->
              <div class="posttext">  
             
              {{ page.text }}
+             
+             <!-- files -->
+           {% if page.pdfs %}
+           <ul style="list-style-type: none;">
+           {% for pdf in page.pdfs %}
+          <li style="float: left;">[
+            <a href="{{pdf}}">αρχείο-{{forloop.index}} </a>
+          ]</li>
+          {% endfor %}
+          </ul>
+           {% endif %}
              </div>
          <div class="imagescontainer">
            <!-- Preview Image -->
@@ -39,9 +48,6 @@
           {% endfor %}
            </div>
           </div>
-
-           
-          
         </div>
        
            
