@@ -31,7 +31,7 @@ fields:
   type: image_gallery
   config: {}
   label: Upload Images
-- name: pdf
+- name: pdfs
   type: image_gallery
   config: {}
   label: Upload pdf files
