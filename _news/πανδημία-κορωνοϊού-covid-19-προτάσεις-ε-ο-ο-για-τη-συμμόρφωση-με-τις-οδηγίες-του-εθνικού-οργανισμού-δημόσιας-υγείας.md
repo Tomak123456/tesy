@@ -7,6 +7,5 @@ date: 13/03/2020
 images: []
 pdfs:
 - "/uploads/2020/03/Covid-19.pdf"
-published: false
 
 ---
