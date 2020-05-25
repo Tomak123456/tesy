@@ -57,7 +57,7 @@
       "url": "{{ site.logo_url | prepend: site.baseurl | prepend: site.url }}"
     }
   },
-  "datePublished": "{{ page.date }}"
+  "datePublished": "{{ page.date | date: "%F" }}"
 }
 </script>
 </head>
