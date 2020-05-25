@@ -2,7 +2,7 @@
 title: ΟΔΟΝΤΙΑΤΡΙΚΟΣ ΣΥΛΛΟΓΟΣ ΤΡΙΚΑΛΩΝ
 description: "Η ιστοσελίδα του Οδοντιατρικού Συλλόγου Τρικάλων"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.ostrikala.gr" # the name of your domain
+url: "https://www.ostrikala.gr" # the name of your domain
 logo_url: /files/logo.png
 
 # Hero
