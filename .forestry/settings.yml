@@ -28,34 +28,6 @@ sections:
   match: "**/*"
   templates:
   - new-general-post
-- type: directory
-  path: _insurance
-  label: Ασφάλιση
-  create: all
-  match: "**/*"
-  templates:
-  - new-general-post
-- type: directory
-  path: _supportingdocuments
-  label: Δικαιολογητικά
-  create: all
-  match: "**/*"
-  templates:
-  - new-general-post
-- type: directory
-  path: _events
-  label: Εκδηλώσεις
-  create: all
-  match: "**/*"
-  templates:
-  - new-events-post
-- type: directory
-  path: _laws
-  label: Νομοθεσία
-  create: all
-  match: "**/*"
-  templates:
-  - new-general-post
 - type: document
   path: _data/useful_links.yaml
   label: Χρήσιμοι σύνδεσμοι

@@ -45,5 +45,3 @@ fields:
   type: image_gallery
   config: {}
   label: Upload pdf files
-pages:
-- _events/ημερίδα-στοματολογίας.md
