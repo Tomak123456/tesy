@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: _dentists
   label: Μέλη του Ο.Σ.Τ
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - members
