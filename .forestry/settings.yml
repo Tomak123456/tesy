@@ -17,7 +17,7 @@ sections:
 - type: directory
   path: _news
   label: Νέα
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - new-general-post
