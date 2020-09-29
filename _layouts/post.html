@@ -24,12 +24,12 @@
 
           <!-- Date/Time -->
           {% include share.html %}
- {{ content }}
+ 
           <div class="totalpostcontent">
           <!-- Post Content -->
              <div class="posttext">  
             
-             {{ page.text }}
+             {{ page.text }}{{ content }}
              
              <!-- files -->
            {% if page.pdfs %}
