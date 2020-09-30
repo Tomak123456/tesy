@@ -29,7 +29,7 @@
           <!-- Post Content -->
              <div class="posttext">  
             
-             {{ page.text }}{{ content }}
+             {{ page.text | markdownify }}{{ content }}
              
              <!-- files -->
            {% if page.pdfs %}
