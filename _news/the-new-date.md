@@ -1,7 +1,7 @@
 ---
 title: the new date
 text: ''
-date: 22/10/2020
+date: 21/10/2020
 images:
 - "/uploads/2020/05/img2.jpg"
 pdfs:
