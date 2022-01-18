@@ -47,6 +47,7 @@ fields:
       path: 
   label: Ειδικότητα
 pages:
+- _dentists/Αντωνίου-Παναγιώτης.md
 - _dentists/Κοσμάς-Θεόδωρος.md
 - _dentists/Παπαμαργαρίτης-Χρήστος.md
 - _dentists/Ρεμπάπη-Θεοδώρα.md
