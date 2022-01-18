@@ -31,8 +31,8 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="{{site.baseurl}}/files/icons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-
-
     <!-- Custom styles for this template -->
-    <link href="{{site.baseurl}}/css/creative.css" rel="stylesheet">
+    {% assign cacheBust = site.time | date:'?v=%s' %}
+ <!--   <link href="{{site.baseurl}}/css/creative.css" rel="stylesheet"> -->
+    <link href="{{site.baseurl}}{{ "/css/creative.css" | relative_url | append: cacheBust }}" rel="stylesheet">
 </head>
