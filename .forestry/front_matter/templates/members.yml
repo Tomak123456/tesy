@@ -47,4 +47,5 @@ fields:
       path: 
   label: Ειδικότητα
 pages:
+- _dentists/Κοσμάς-Θεόδωρος.md
 - _dentists/Ριζαργιώτη-Αθανασία.md
