@@ -22,7 +22,9 @@
   <div class="card-body">
     <h4 class="card-title">{{page.dentistname}}</h4>
     <p class="card-text" > {{page.dentistaddress}}</p>
+    {% if page.dentistmobile %}
     <a href="tel:{{page.dentistmobile}}" class="btn btn-primary"> {{page.dentistmobile}}</a>
+    {% endif %}
   </div>
   <div class="card-footer text-muted">
     {{page.dentistcity}}
