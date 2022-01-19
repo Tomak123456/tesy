@@ -38,7 +38,7 @@ permalink: /οδοντιατροι-ορθοδοντικοι/τρικαλων/
     <h5>{{group.name}}</h5>
         {% for item in group.items %}
         <ul><a href="{{item.url}}" style="color: black;">
-            <li>{{item.dentistname}} {% if item.dentistmobile != null and item.dentistmobile != empty %}- <a href="tel:{{item.dentistmobile}}" style="color: black;">{{item.dentistmobile}}</a>{% endif %} {% if item.dentistaddress != null and item.dentistaddress != empty %}- {{item.dentistaddress}}{% endif %}{% if item.dentistspecialty != null and item.dentistspecialty != empty %} - {{item.dentistspecialty}}{% endif %}</li></a>
+            <li>{{item.dentistname}} {% if item.dentistmobile != null and item.dentistmobile != empty %}- {{item.dentistmobile}}{% endif %} {% if item.dentistaddress != null and item.dentistaddress != empty %}- {{item.dentistaddress}}{% endif %}{% if item.dentistspecialty != null and item.dentistspecialty != empty %} - {{item.dentistspecialty}}{% endif %}</li></a>
         </ul>
         {% endfor %}
     {% endfor %}
@@ -59,7 +59,7 @@ permalink: /οδοντιατροι-ορθοδοντικοι/τρικαλων/
     <h5>{{group.name}}</h5>
         {% for item in group.items %}
         <ul><a href="{{item.url}}" style="color: black;">
-            <li>{{item.dentistname}} {% if item.dentistmobile != null and item.dentistmobile != empty %}- <a href="tel:{{item.dentistmobile}}" style="color: black;">{{item.dentistmobile}}</a>{% endif %} {% if item.dentistaddress != null and item.dentistaddress != empty %}- {{item.dentistaddress}}{% endif %}{% if item.dentistspecialty != null and item.dentistspecialty != empty %} - {{item.dentistspecialty}}{% endif %}</li></a>
+            <li>{{item.dentistname}} {% if item.dentistmobile != null and item.dentistmobile != empty %}- {{item.dentistmobile}}{% endif %} {% if item.dentistaddress != null and item.dentistaddress != empty %}- {{item.dentistaddress}}{% endif %}{% if item.dentistspecialty != null and item.dentistspecialty != empty %} - {{item.dentistspecialty}}{% endif %}</li></a>
         </ul>
         {% endfor %}
     {% endfor %}
