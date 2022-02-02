@@ -36,7 +36,6 @@ fields:
   config: {}
   label: Upload pdf files
 pages:
-- _news/....md
 - _news/covid-19-4.md
 - _news/ετήσιο-συνέδριο-στοματολογικής-εταιρείας-βορείου-ελλάδος-27-28-μαρτίου-2020.md
 - _news/κοπη-πιτασ-22-φεβρουαρίου-2020.md
