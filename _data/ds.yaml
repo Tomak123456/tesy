@@ -5,46 +5,46 @@
   location: Κολοκοτρώνη 13
   city: Τρίκαλα
   website: ''
-  mobile: 2431074110
-- name: Γεώργιος
-  lastname: Μπάκος
+  mobile: "2431074110"
+- name: Έλενα
+  lastname: Χύτα
   position: Αντιπρόεδρος
-  location: Μιαούλη & Ιακωβάκη
+  location: Κανούτα 1
   city: Τρίκαλα
   website: ''
-  mobile: 2431078780
+  mobile: "2431077560"
 - name: Βασίλης
   lastname: Γαλάνης
   position: Γραμματέας
   location: Βύρωνος  και  Κανούτα 1
   city: Τρίκαλα
   website: ''
-  mobile: 2431027750
+  mobile: "2431027750"
 - name: Βασίλειος
   lastname: Μανώλης
   position: Ταμίας
   location: Άννης Κομνηνής 12 & Καρανάσιου
   city: Τρίκαλα
   website: ''
-  mobile: 2431301645
+  mobile: "2431301645"
 - name: Χριστόδουλος
   lastname: Ραπτοτάσιος
   position: Μέλος
   location: Κονδύλη 24 και Σωκράτους
   city: Τρίκαλα
   website: ''
-  mobile: 2431035933
+  mobile: "2431035933"
 - name: Κωνσταντίνος
   lastname: Τσίγκας
   position: Μέλος
   location: Στρατηγού Σαράφη 14
   city: Τρίκαλα
   website: ''
-  mobile: 2431033258
+  mobile: "2431033258"
 - name: Ελένη
   lastname: Χύτα
   position: Μέλος
   location: Κανούτα 1
   city: Τρίκαλα
   website: ''
-  mobile: 2431077560
+  mobile: "2431077560"
