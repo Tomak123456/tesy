@@ -34,13 +34,6 @@
   city: Τρίκαλα
   website: ''
   mobile: "2431027750"
-- name: Κωνσταντίνος
-  lastname: Τσίγκας
-  position: Μέλος
-  location: Στρατηγού Σαράφη 14
-  city: Τρίκαλα
-  website: ''
-  mobile: "2431033258"
 - name: Βασίλειος
   lastname: Μανώλης
   position: Μέλος
@@ -48,3 +41,10 @@
   city: Τρίκαλα
   website: ''
   mobile: "2431301645"
+- name: Κωνσταντίνος
+  lastname: Τσίγκας
+  position: Μέλος
+  location: Στρατηγού Σαράφη 14
+  city: Τρίκαλα
+  website: ''
+  mobile: "2431033258"
