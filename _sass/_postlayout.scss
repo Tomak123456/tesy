@@ -15,6 +15,22 @@
     padding:10px;
 }
 
+.headerinfo {
+  max-width: 500px;
+  border-radius: 10px;
+  margin-top: 10px;
+
+}
+
+
+@media all and (max-width: 512px) {
+  .headerinfo {
+    max-width:100%;
+    }
+  
+}
+
+
 .postfigures {
     max-width:300px;
     border-radius: 10px;
